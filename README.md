@@ -12,14 +12,12 @@ Once GitHub Pages is enabled, the following pages will be available publicly:
 
 | Page                                 | File                             | Public URL                                                                        |
 | ------------------------------------ | -------------------------------- | --------------------------------------------------------------------------------- |
-| Legal Home                           | `docs/index.html`                | `https://your-github-username.github.io/scanveil-legal/`                          |
-| Privacy Policy                       | `docs/privacy-policy.html`       | `https://your-github-username.github.io/scanveil-legal/privacy-policy.html`       |
-| Terms & Conditions                   | `docs/terms-and-conditions.html` | `https://your-github-username.github.io/scanveil-legal/terms-and-conditions.html` |
-| Account Deletion and Data Collection | `docs/account-deletion.html`     | `https://your-github-username.github.io/scanveil-legal/account-deletion.html`     |
-| Legal and Licenses                   | `docs/legal-and-licenses.html`   | `https://your-github-username.github.io/scanveil-legal/legal-and-licenses.html`   |
-| About Scanveil                       | `docs/about.html`                | `https://your-github-username.github.io/scanveil-legal/about.html`                |
-
-Replace `your-github-username` with the actual GitHub username that owns this repository.
+| Legal Home                           | `docs/index.html`                | `https://thevishalswami.github.io/scanveil-legal/`                          |
+| Privacy Policy                       | `docs/privacy-policy.html`       | `https://thevishalswami.github.io/scanveil-legal/privacy-policy.html`       |
+| Terms & Conditions                   | `docs/terms-and-conditions.html` | `https://thevishalswami.github.io/scanveil-legal/terms-and-conditions.html` |
+| Account Deletion and Data Collection | `docs/account-deletion.html`     | `https://thevishalswami.github.io/scanveil-legal/account-deletion.html`     |
+| Legal and Licenses                   | `docs/legal-and-licenses.html`   | `https://thevishalswami.github.io/scanveil-legal/legal-and-licenses.html`   |
+| About Scanveil                       | `docs/about.html`                | `https://thevishalswami.github.io/scanveil-legal/about.html`                |
 
 ---
 
@@ -94,7 +92,7 @@ Use these links inside the Scanveil app:
 ```dart
 class AppLegalLinks {
   static const baseUrl =
-      'https://your-github-username.github.io/scanveil-legal';
+      'https://thevishalswami.github.io/scanveil-legal';
 
   static const privacyPolicy = '$baseUrl/privacy-policy.html';
   static const termsAndConditions = '$baseUrl/terms-and-conditions.html';
@@ -154,7 +152,7 @@ docs/privacy-policy.html
 will continue to be available at:
 
 ```text
-https://your-github-username.github.io/scanveil-legal/privacy-policy.html
+https://thevishalswami.github.io/scanveil-legal/privacy-policy.html
 ```
 
 ---
